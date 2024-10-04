@@ -4,6 +4,7 @@ Why is description the hardest thing to come up with...
 
 ## Purpose
 
+Enjoy, have fun, learn stuff, meet new people and leave a mark!
 
 ### How It Will Work
 
@@ -61,11 +62,11 @@ We’ll distribute roles based on each member’s strengths and interests:
 
 - Meetings will be held **twice or thrice a week** to discuss progress, assign tasks, and troubleshoot any challenges.
 - The project is expected to **extend over two semesters**, allowing ample time for development, testing, and deployment.
-- 
+  
 #### Future Goals
 
 The Programming Hub aims to provide members with opportunities to:
 
 - Learn and improve programming skills.
-- Work on real-world projects that can be added to their portfolios (or just for fun.
+- Work on real-world projects that can be added to their portfolios (or just for fun).
 - Develop teamwork and communication skills in a collaborative environment.
